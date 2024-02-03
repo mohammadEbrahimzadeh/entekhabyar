@@ -13,7 +13,9 @@ const Header = () => {
         </p>
         <div className="pt-3 pt-sm-4 d-flex  justify-content-center ps-4  align-items-center ">
           <button className="btn-success bg-success   p-2 rounded fs-6 btnDownload rounded-3 ">
-            <a href="http://www.google.com">دانلود برنامه</a>
+            <a href="https://drive.google.com/file/d/1NhjGYomsusD59CiJUBOXGfRATdw4pCU2/view?usp=drivesdk">
+              دانلود برنامه
+            </a>
           </button>
         </div>
       </div>
